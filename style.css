@@ -60,6 +60,7 @@ button.start_quiz {
     font-size: 25px;
     color: rgba(5, 93, 151, 0.925);
     font-weight: 600;
+    font-weight: 600;
 }
 
 .quiz .quiz_title h2.timer {
